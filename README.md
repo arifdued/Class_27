@@ -1,2 +1,2 @@
 Gift Shop
-https://arifdued.github.io/Class_27/
+https://arifdued.github.io/Gift-Shop/
